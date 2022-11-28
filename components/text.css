@@ -1,0 +1,42 @@
+
+
+
+.titulo{
+    position: relative;
+     color: black;
+    font-size: 40px;
+    text-align: left;
+    font-family: 'poor story';
+    margin: 20px;
+}
+
+.texto{
+
+    color: black;
+    font-size: 25px;
+    font-family: 'poor story';
+}
+
+.rodape{
+    position: relative;
+    top: 500px;
+}
+.titulot{
+    position: relative;
+    color: black;
+   font-size: 30px;
+   text-align: center;
+   font-family: 'poor story';
+}
+
+.estilot{
+    width: 65%;
+    height: 100%;
+    color: black;
+    font-family: 'Poor story';
+}
+.titulo2{
+    text-align: center;
+    font-size: 70px;
+    position: relative;
+}
